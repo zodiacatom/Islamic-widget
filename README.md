@@ -1,3 +1,4 @@
+<img width="1217" height="993" alt="Screenshot 2026-11-25 224318" src="https://github.com/user-attachments/assets/5e81f1c5-d7f8-4402-bb71-507e4eaf5544" />
 # Islamic-widget
 This is an Islamic inspired Rainmeter widget for anyone who would like to decorate their PC and give an aesthetic and please look. This file was created purely using claude and i would like for you to try it and make Dua for me.
 
